@@ -6,7 +6,7 @@ hideipnetwork was developed to evade censorship on the web
 
 ---
 
-## Quickstart  |  [中文教程](https://github.com/Hideipnetwork/hideipnetwork-web/wiki/Hideipnetwork-Server)
+## Quickstart  |  [中文教程](https://github.com/niwiu/hideipnetwork-web/wiki/Hideipnetwork-Server)
 
 **deploy**
 
@@ -33,14 +33,5 @@ If you need node.js version, please check [here](https://github.com/Hideipnetwor
 ![](https://alis.pages.dev/file/d3a9602d60f4f7fcea23c.png)
 ![](https://alis.pages.dev/file/4c62b7652dbeaa9677827.png)
 
-## Donate(TRC20)
-
-![](https://alis.pages.dev/file/7aa0321085f5e963eae40.png)
-
-TQVFVa7Hmbycp1q3r3tUdTL9NzAR1XAy9E
-
-## contact
-
-![](https://store.heytapimage.com/cdo-portal/feedback/202207/02/b705611e231f230f2fec150f35221c0b.png)
 
 
