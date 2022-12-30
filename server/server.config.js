@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: `/server/`,
+    prefix: `/https://cf.niwiu.app//`,
     bare: `/bare/`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
