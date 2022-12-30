@@ -1,8 +1,8 @@
 self.__uv$config = {
     prefix: `/server/`,
     bare: `/bare/`,
-    encodeUrl: Ultraviolet.codec.xor.encode,
-    decodeUrl: Ultraviolet.codec.xor.decode,
+    encodeUrl: https://niwiu.iumiu.workers.dev,
+    decodeUrl: https://niwiu.iumiu.workers.dev,
     handler: '/server/server.handler.js',
     client: '/server/server.client.js',
     bundle: '/server/server.bundle.js',
