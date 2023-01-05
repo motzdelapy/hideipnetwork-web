@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: `/server/`,
-    bare: `/https://niwiu.iumiu.workers.dev//`,
+    bare: `/https://autumn-mouse-2523.iumiu.workers.dev//`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/server/server.handler.js',
