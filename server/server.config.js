@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://autumn-mouse-2523.iumiu.workers.dev'
+const BAREURL = 'https://cf.niwiu.app/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
