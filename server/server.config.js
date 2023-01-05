@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://yourdomain'
+const BAREURL = 'https://autumn-mouse-2523.iumiu.workers.dev'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
