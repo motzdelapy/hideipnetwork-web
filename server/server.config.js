@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://youraddress'
+const BAREURL = 'https://cdn.niwiu.com/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
